@@ -1,1 +1,1 @@
-# The game of snake
+# The game of snake coded in python, no pun intended.
